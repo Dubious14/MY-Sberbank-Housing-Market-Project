@@ -1,5 +1,4 @@
 # MY-Sberbank-Housing-Market-Project
-Machine learning project - House Price Prediction
 Welcome to the House Price Prediction repository! This project focuses on predicting housing prices in the Sberbank Russian Housing Market dataset. By applying rigorous data preprocessing, tailored feature engineering, and a two-model approach (separating Investment and Owner-Occupied properties), we achieve a strong predictive performance, culminating in an RMSLE of approximately 0.333 on the private leaderboard.
 
 Overview:
