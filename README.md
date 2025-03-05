@@ -16,5 +16,5 @@ Overview:
 3. Hyperparameter Tuning
    Optuna: Leveraged Bayesian optimization to systematically explore parameter configurations.
    Early Stopping & Regularization: Prevented overfitting by monitoring validation metrics and tuning parameters like max_depth, learning_rate, subsample, and colsample_bytree.
-4. Results
+   4. Results
    Final RMSLE: ~0.333 on the private leaderboard, significantly improved from the baseline (~0.355).
